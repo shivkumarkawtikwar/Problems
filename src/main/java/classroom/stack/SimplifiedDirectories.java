@@ -4,7 +4,7 @@ import java.util.Stack;
 
 import static org.junit.Assert.assertEquals;
 
-public class SimplifiedParanthesis {
+public class SimplifiedDirectories {
 
 
     public static void main(String[] args) {
